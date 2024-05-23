@@ -15,6 +15,6 @@ public class Main {
         HufflepuffStudent sedrik = new HufflepuffStudent("Седрик Диггори", 9, 3,
                 5, 2,12);
 
-        potter.compareTo(malfoy);
+
     }
 }
